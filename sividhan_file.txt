@@ -5,3 +5,4 @@
 世界多么的糟糕
 未来的世界多么的美好
 hot_fixed
+merge master
